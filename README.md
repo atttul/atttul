@@ -1,2 +1,63 @@
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<h1 align="center">Hi 👋, I'm Atul Akash</h1>
+<h3 align="center">Full-Stack Developer | Java Backend | MERN Stack Enthusiast</h3>
+
+---
+
+## 🧑‍💻 About Me
+
+I’m a full-stack developer with **4+ years of professional experience**, currently working with **Java, Spring Boot, Node.js, and the MERN stack**. I've built **scalable APIs**, full-fledged **web apps**, and **secure payment integrations** using Razorpay and OTP verification.
+
+My passion lies in solving real-world problems through efficient, clean, and production-grade code. I constantly explore new tools and technologies to stay ahead in the ever-evolving tech landscape.
+
+---
+
+## 🌍 I'm based in:
+📍 **India**
+
+---
+
+## 💼 See My Portfolio:
+[🔗 GitHub Portfolio](https://github.com/atttul)
+
+---
+
+## 📫 Contact Me:
+📧 `atttul.dev@gmail.com`
+
+---
+
+## 🚀 I’m currently working on:
+[MernDine 🍽️ – Fullstack Food Ordering Platform](https://github.com/atttul/MernDine)  
+A food ordering app with **Razorpay integration**, **OTP verification**, **MongoDB**, and **React UI**.
+
+---
+
+## 🧠 I’m currently learning:
+- Advanced **Node.js patterns**
+- **Next.js**
+- **Cloud deployment** with AWS and Vercel
+
+---
+
+## 🤝 I’m open to collaborating on:
+- Full-stack web projects (MERN, Java Spring)
+- Backend-heavy systems
+- Freelance/remote dev opportunities
+
+---
+
+## ⚡ Fun Fact:
+I debug best with a cup of chai ☕ — and I'm always ready to learn something new!
+
+---
+
+## 📈 GitHub Stats
+
+![Atul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atttul&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atttul&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=atttul&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
