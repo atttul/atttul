@@ -22,25 +22,26 @@ My passion lies in solving real-world problems through efficient, clean, and pro
 ---
 
 ## 📫 Contact Me:
-📧 `atttul.dev@gmail.com`
+📧 `akashatul123@gmail.com`
+💼 [LinkedIn](https://www.linkedin.com/in/atul-akash-8b895b188/)
 
 ---
 
 ## 🚀 I’m currently working on:
-[MernDine 🍽️ – Fullstack Food Ordering Platform](https://github.com/atttul/MernDine)  
-A food ordering app with **Razorpay integration**, **OTP verification**, **MongoDB**, and **React UI**.
+[MernDine 🍽️ – Fullstack Food Ordering Platform](https://react-js-front-end-food.vercel.app/)  
+A food ordering app with **Razorpay Payment integration**, **OTP verification**, **MongoDB**, and **React UI**.
 
 ---
 
 ## 🧠 I’m currently learning:
 - Advanced **Node.js patterns**
-- **Next.js**
+- **Angular**
 - **Cloud deployment** with AWS and Vercel
 
 ---
 
 ## 🤝 I’m open to collaborating on:
-- Full-stack web projects (MERN, Java Spring)
+- Full-stack web projects (MERN)
 - Backend-heavy systems
 - Freelance/remote dev opportunities
 
