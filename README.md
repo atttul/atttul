@@ -27,7 +27,7 @@ My passion lies in solving real-world problems through efficient, clean, and pro
 
 ---
 
-## 🚀 I’m currently working on:
+## 🚀 My Projects (LIVE):
 [MernDine 🍽️ – Live Fullstack Food Ordering Platform](https://react-js-front-end-food.vercel.app/)  
 A fully functional food ordering web app built using the **MERN stack**. It includes:
 - 🔐 **OTP verification**
