@@ -28,8 +28,20 @@ My passion lies in solving real-world problems through efficient, clean, and pro
 ---
 
 ## 🚀 I’m currently working on:
-[MernDine 🍽️ – Fullstack Food Ordering Platform](https://react-js-front-end-food.vercel.app/)  
-A food ordering app with **Razorpay Payment integration**, **OTP verification**, **MongoDB**, and **React UI**.
+[MernDine 🍽️ – Live Fullstack Food Ordering Platform](https://react-js-front-end-food.vercel.app/)  
+A fully functional food ordering web app built using the **MERN stack**. It includes:
+- 🔐 **OTP verification**
+- 💳 **Razorpay payment integration**
+- 🛠️ **MongoDB** for backend data handling
+- ⚛️ **React.js** for a responsive frontend UI
+- 🧠 **Backend developed with Node.js and Express.js**
+
+📂 **Source Code**:  
+🔹 [Frontend Repo](https://github.com/atttul/react-js-front-end-food)  
+🔹 [Backend Repo](https://github.com/atttul/node-js-back-end-food)
+
+🌐 **Live App**: [react-js-front-end-food.vercel.app](https://react-js-front-end-food.vercel.app/)
+
 
 ---
 
