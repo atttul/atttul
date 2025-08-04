@@ -22,7 +22,7 @@ My passion lies in solving real-world problems through efficient, clean, and pro
 ---
 
 ## 📫 Contact Me:
-📧 `akashatul123@gmail.com`
+- 📧 `akashatul123@gmail.com`
 - 💼 [LinkedIn](https://www.linkedin.com/in/atul-akash-8b895b188/)
 
 ---
