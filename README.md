@@ -11,21 +11,6 @@ My passion lies in solving real-world problems through efficient, clean, and pro
 
 ---
 
-## 🌍 I'm based in:
-📍 **India**
-
----
-
-## 💼 See My Portfolio:
-[🔗 GitHub Portfolio](https://github.com/atttul)
-
----
-
-## 📫 Contact Me:
-- 📧 `akashatul123@gmail.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/atul-akash-8b895b188/)
-
----
 
 ## 🚀 My Projects (LIVE):
 [MernDine 🍽️ – Live Fullstack Food Ordering Platform](https://react-js-front-end-food.vercel.app/)  
@@ -36,12 +21,22 @@ A fully functional food ordering web app built using the **MERN stack**. It incl
 - ⚛️ **React.js** for a responsive frontend UI
 - 🧠 **Backend developed with Node.js and Express.js**
 
+📦 **Deployment**:  
+- 🚀 Frontend deployed on **Vercel**  
+- ☁️ Backend deployed on **AWS EC2**
+
 📂 **Source Code**:  
 🔹 [Frontend Repo](https://github.com/atttul/react-js-front-end-food)  
 🔹 [Backend Repo](https://github.com/atttul/node-js-back-end-food)
 
 🌐 **Live App**: [react-js-front-end-food.vercel.app](https://react-js-front-end-food.vercel.app/)
 
+
+---
+
+## 📫 Contact Me:
+- 📧 `akashatul123@gmail.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/atul-akash-8b895b188/)
 
 ---
 
@@ -53,7 +48,7 @@ A fully functional food ordering web app built using the **MERN stack**. It incl
 ---
 
 ## 🤝 I’m open to collaborating on:
-- Full-stack web projects (MERN)
+- Full-stack web projects (MERN/MEAN)
 - Backend-heavy systems
 - Freelance/remote dev opportunities
 
@@ -61,6 +56,16 @@ A fully functional food ordering web app built using the **MERN stack**. It incl
 
 ## ⚡ Fun Fact:
 I debug best with a cup of chai ☕ — and I'm always ready to learn something new!
+
+---
+
+## 💼 See My Portfolio:
+[🔗 GitHub Portfolio](https://github.com/atttul)
+
+---
+
+## 🌍 I'm based in:
+📍 **India**
 
 ---
 
