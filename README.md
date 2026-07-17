@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a full-stack developer with **3.5+ years of professional experience**, currently working with **Java, Spring Boot, Node.js, and the MERN stack**. I've built **scalable APIs**, full-fledged **web apps**, and **secure payment integrations** using **Razorpay/Cashfree** and OTP verification system.
+I’m a full-stack developer with **4.5+ years of professional experience**, currently working with **Java, Spring Boot, Node.js, and the MERN stack**. I've built **scalable APIs**, full-fledged **web apps**, and **secure payment integrations** using **Razorpay/Cashfree** and OTP verification system.
 
 My passion lies in solving real-world problems through efficient, clean, and production-grade code. I constantly explore new tools and technologies to stay ahead in the ever-evolving tech landscape.
 
